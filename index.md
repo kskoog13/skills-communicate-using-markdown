@@ -9,3 +9,7 @@ commit changes to see different header views.
 ``` javascript
 var myVar = "Hello!";
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
