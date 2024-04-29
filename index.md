@@ -3,3 +3,5 @@
 ##### This is a H5 Header.
 
 commit changes to see different header views.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
